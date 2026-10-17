@@ -8,7 +8,7 @@
 
 | 项目 | 解决的问题 | 技术与验证 |
 | --- | --- | --- |
-| [China Fixed Income Lab](https://github.com/SuperrrrSpike/china-fixed-income-lab) | 中国债券晨报、一级发行跟踪、收益率曲线和利率风险分析 | Python、pandas、SciPy、Streamlit；可审计数据清单；46 项测试与多版本 CI |
+| [China Fixed Income Lab](https://github.com/SuperrrrSpike/china-fixed-income-lab) | 中国债券晨报、一级发行跟踪、收益率曲线和利率风险分析 | Python、pandas、SciPy、Streamlit；可审计数据清单；50+ 项测试与多版本 CI |
 | [Warehouse Agent](https://github.com/SuperrrrSpike/warehouse-agent) | 从真实拣选数据预测波次路线负荷，生成班前行动队列 | SQLite、scikit-learn、HistGradientBoosting；时间切分评估、漂移监控与回归门禁 |
 | [FitCoach Agent](https://github.com/SuperrrrSpike/fitness-coach-agent) | 训练计划、饮食记录和食物图片识别的一体化健身助手 | Supabase、RLS、JavaScript、Deno Edge Function；服务端密钥隔离与配置注入回归 |
 | [Charity Report Generator](https://github.com/SuperrrrSpike/charity-report-gen) | 将公益项目材料整理为内部审阅稿、捐赠人友好稿和结构化披露字段 | Python、LLM 结构化抽取、静态 Web；数字溯源、人工审批与只追加审计记录 |
